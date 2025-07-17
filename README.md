@@ -1,7 +1,7 @@
-# YOLO v8버전 영상 detect 하기
+# 1YOLO v8버전 영상 detect 하기
  이번 시간엔 YOLO v8 버전을 이용한 찍었던 영상의 차량과 사람을 탐지하는 코드를 짜보았다.
 
-## 2 YOLO v11 버전 개요
+# 2 YOLO v11 버전 개요
 
 <img width="1163" height="487" alt="화면 캡처 2025-07-17 112046" src="https://github.com/user-attachments/assets/4f59222a-f522-4027-a0f6-af8abc0706ed" />
 
@@ -12,7 +12,7 @@
 4. 다양한 환경에서의 적응성: YOLO11 은 엣지 디바이스, 클라우드 플랫폼, NVIDIA GPU를 지원하는 시스템 등 다양한 환경에 원활하게 배포할 수 있어 유연성을 극대화합니다.
 5. 광범위한 지원 작업: 물체 감지, 인스턴스 분할, 이미지 분류, 포즈 추정, 방향성 물체 감지(OBB) 등 다양한 컴퓨터 비전 과제에 대응할 수 있도록 설계되었습니다( YOLO11 ).
 
-# YOLOv8 vs YOLOv11 비교
+# 3 YOLOv8 vs YOLOv11 비교
 
 YOLO(You Only Look Once) 시리즈는 객체 탐지 분야에서 가장 널리 사용되는 모델 중 하나입니다. 본 문서에서는 **YOLOv8**과 **YOLOv11**의 주요 성능과 구조적 차이를 비교합니다.
 
